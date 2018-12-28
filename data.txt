@@ -1,3 +1,4 @@
 Name: Thomas Escapa
 Age: 36
 Favorite color: Blue
+Nickname: Tom
